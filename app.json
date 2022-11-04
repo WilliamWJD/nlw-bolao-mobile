@@ -2,6 +2,7 @@
   "expo": {
     "name": "nlw-bolao-mobile",
     "slug": "nlw-bolao-mobile",
+    "scheme": "nlw-bolao-mobile",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
